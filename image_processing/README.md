@@ -1,2 +1,2 @@
-Applied Data Science 2014
+image processing module - code still work in progress
 =========================
